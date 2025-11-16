@@ -2,13 +2,17 @@
 
 An end‑to‑end Power BI project built to analyze and visualize urban traffic, accidents, air quality, mobility patterns, and public sentiment across major Indian cities. Designed with a strong focus on real-world analytics, storytelling, and decision-oriented insights, this dashboard stands out as an interview-ready portfolio project.
 
+
 🧭 Project Title
+
 
 City Pulse – Urban Mobility, Pollution & Road Safety Insights Dashboard (2021–2024)
 
 A multi-page interactive Power BI dashboard that uncovers how traffic density, AQI, rainfall, and public behavior influence urban safety and daily commute patterns.
 
+
 📌 Project Overview
+
 
 The City Pulse Dashboard offers a holistic view of urban challenges in India’s top cities. It transforms raw multi-year data into actionable insights related to:
 
@@ -26,7 +30,9 @@ City-level benchmarking
 
 The project demonstrates expertise in data modeling, DAX, visual analytics, and urban domain understanding.
 
+
 🛠 Tech Stack
+
 
 This dashboard was built using:
 
@@ -40,7 +46,9 @@ CSV/Excel – Data validation & structuring
 
 .pbix – Final Power BI report file
 
+
 📁 Data Source
+
 
 Dataset is available on kaggle 
 
@@ -80,7 +88,9 @@ Commute Time
 
 Data includes missing values and duplicates.
 
+
 🎯 Business Problem
+
 
 Urban administrators and transportation planners need a unified view to understand:
 
@@ -96,7 +106,9 @@ Which seasonal patterns create the highest risks
 
 The dashboard helps build evidence-based safety, mobility, and pollution policies.
 
+
 🥅 Goal of the Dashboard
+
 
 To build an analytical solution that:
 
@@ -112,7 +124,9 @@ Supports strategic actions for smarter cities
 
 This is built as a portfolio-quality Power BI case study.
 
+
 📊 Dashboard Features
+
 
 🔹 Page 1 – Overview Dashboard
 
@@ -126,6 +140,7 @@ City-wise accident comparison
 
 Commute time analysis
 
+
 🔹 Page 2 – City Trends
 
 AQI trend by month
@@ -136,6 +151,7 @@ Rainfall vs Accident patterns
 
 Traffic vs Accidents scatter analysis
 
+
 🔹 Page 3 – Urban Mindset & Sentiment
 
 Accidents trend over years
@@ -145,6 +161,7 @@ Event impact (Festivals, Sports, Political events)
 Vehicles by year
 
 Accidents vs Sentiment bubble chart
+
 
 🔹 Page 4 – Key Insights (Recommendation Engine)
 
@@ -164,7 +181,9 @@ Rainfall-triggered traffic alerts\
 
 Pedestrian safety programs
 
+
 🔍 Key Insights
+
 
 Here are 10 high-impact insights:
 
@@ -188,7 +207,9 @@ Festivals & political events lead to noticeable spikes in traffic & accidents.
 
 Cities with public transport adoption show lower congestion impact.
 
+
 💼 Business Impact
+
 
 This dashboard empowers decision-makers by:
 
@@ -204,6 +225,7 @@ Enhancing commute efficiency & citizen experience
 
 
 🏅 Skills Demonstrated
+
 
 Advanced DAX Calculations
 
